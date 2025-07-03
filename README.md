@@ -1,4 +1,5 @@
 # demo
 this is my first git repo
 <br>
-Author - Aniket
+
+Author - Aniket Khadanga
